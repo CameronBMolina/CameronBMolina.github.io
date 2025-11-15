@@ -5,10 +5,10 @@ icon_img: /assets/img/icon.webp
 name: "Cameron Molina"
 job: "Looking for work"
 
-phone_number: 44-666-6847
+phone_number: 440-666-6847
 address: Brecksville, Ohio
 email: cbmolina13@gmail.com
-linkedin_username: https://www.linkedin.com/in/cameron-molina-3b0ab234b/
+linkedin_username: Cameron Molina
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
