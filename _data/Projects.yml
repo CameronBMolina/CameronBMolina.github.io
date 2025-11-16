@@ -4,7 +4,8 @@ icon: "/assets/img/gears.svg"
 contents:
   - title: 2002 Volvo S60
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
+      - Replaced PCV breather box, camshaft seals, timing belt, and various gaskets to fix leaking oil from engine.
+      - Required precise timing of engine to prevent fatal interference between pistons and valves.
+      - Troubleshooted recurring check engine light relating to emissions system.
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+    date: Sep. 2025 - Nov. 2025
