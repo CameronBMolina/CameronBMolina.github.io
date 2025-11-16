@@ -4,13 +4,14 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Computer Applications
     description: "
-    ![](/assets/img/autodesk-fusion-360-icon.svg)
+    ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg)
+    ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)
+    ![svgrepo](https://www.svgrepo.com/show/503426/microsoft-office.svg)
     "
   - title: Programming Languages
     description: "
-      /resources/svgs/iconie/c.svg
-      /resources/svgs/iconie/labview-svgrepo-com.svg
-      /resources/svgs/iconie/matlab-svgrepo-com.svg
-      /resources/svgs/iconie/python-3.svg
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/labview/labview-original-wordmark.svg)
       ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
       "
