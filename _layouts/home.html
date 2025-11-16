@@ -124,12 +124,6 @@
                           <li class="subitem">
                             {{ subitem | markdownify }}
                           </li>
-                            {% if member.location %}
-                              <span class="content-location">
-                                <img src="{{ 'assets/img/location_dot_icon_199007.webp' | prepend: site.baseurl}}" alt="location">
-                                {{ member.location }}
-                              </span>
-                            {% endif %}
                           {% endfor %}
                         </ul>
                       {% else %}
