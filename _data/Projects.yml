@@ -9,7 +9,7 @@ contents:
     image2: "![](https://i.ibb.co/Lz4MzdJT/IMG-6043-1.webp)"
     date: Sep. 2025 - Nov. 2025
   - title: Lego Robot
-    description: In Engineering Design Thinking II students were tasked with making lego robots that could follow a line, pick up and determine contents of a box, and place box in a location depending on its contents. 
+    description: In my Engineering Design Thinking II class we were tasked with making lego robots that could follow a line, pick up and determine contents of a box, and place box in a location depending on its contents. 
     subtitle: For line tracking capabilities, my robot used two color sensors and a PD loop. The loop would take the sum of both sensors and compare that to the individual sensors. If the left sensor was reading black and the right white, the code would return a value that would turn the robot towards the line and then compare again after finishing the loop.
     image: "![](https://i.ibb.co/zWyRTPdb/Picture1-1.webp)"
     video: <iframe width="560" height="315" src="https://www.youtube.com/embed/KfOoDGSjLh0?si=nu7xE6Ch8Tcz_yKb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
